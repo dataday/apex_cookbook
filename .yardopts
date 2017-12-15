@@ -1,0 +1,15 @@
+--readme README.md
+--title 'Apex Cookbook'
+--charset utf-8
+--markup markdown
+--exclude vendor/
+-
+attributes/default.rb
+libraries/helpers.rb
+libraries/helpers_release.rb
+recipes/default.rb
+spec/unit/libraries/helpers_release_spec.rb
+spec/unit/recipes/default_spec.rb
+templates/etc.erb
+test/smoke/default/default_test.rb
+MIT-LICENSE
